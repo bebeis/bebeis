@@ -11,7 +11,7 @@ The mainly used programming languages are as follows.
 * java (in Backend, Devops)
 * Python(in ML)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnGlow&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnGlow&style=compact&theme=onedark)
 
 [![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawnGlow&theme=flag-india&show_icons=true)
 

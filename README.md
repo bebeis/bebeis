@@ -8,7 +8,8 @@
 
 The mainly used programming languages are as follows.
 * C++ (in Algorithm)
-* java (in Backend)
+* C (in DataStructure, CS)
+* java (in Backend, Algorithm)
 * Python(in ML)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnGlow&layout=compact&theme=onedark)

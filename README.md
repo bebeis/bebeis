@@ -7,9 +7,9 @@
 * ✏️ **Tech blog** : https://lumana.tistory.com
 
 
-<div align=center><h1>📚 MAIN STACKS & Now I'm Studying</h1></div>
+<div><h1>📚 MAIN STACKS & Now I'm Studying</h1></div>
 
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>

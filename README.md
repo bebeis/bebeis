@@ -2,12 +2,13 @@
 
 ----------------------
 
+<div><h1>🏃Activity</h1></div>
 * 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~)
 * ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ )
 * ✏️ **Tech blog** : https://lumana.tistory.com
 
 
-<div><h1>📚 MAIN STACKS & Now I'm Studying</h1></div>
+<div><h1>🔨 MAIN STACKS & Now I'm Studying</h1></div>
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -20,7 +21,9 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
-<div><h1>📚 Stat</h1></div>
+<div><h1>📚 Project</h1></div>
+
+<div><h1>✏️ Stat</h1></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnGlow&layout=compact&theme=onedark)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ferrater1013)](https://solved.ac/ferrater1013)
 

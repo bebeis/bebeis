@@ -24,6 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnGlow&layout=compact&theme=onedark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ferrater1013)](https://solved.ac/ferrater1013)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ferrater1013)](https://solved.ac/ferrater1013)
 
 [![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawnGlow&theme=flag-india&show_icons=true)

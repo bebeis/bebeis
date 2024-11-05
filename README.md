@@ -2,7 +2,7 @@
 
 ----------------------
 
-<div><h1>🏃Activity</h1></div>
+# 🏃Activity
 * 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~)
 * ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ )
 * ✏️ **Tech blog** : https://lumana.tistory.com

@@ -8,7 +8,7 @@
 * ✏️ **Tech blog** : https://lumana.tistory.com
 
 
-<div><h1>🔨 MAIN STACKS & Now I'm Studying</h1></div>
+<div><h1>🔨 MAIN STACKS </h1></div>
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -20,6 +20,15 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
+
+<div><h1> Now I'm Studying </h1></div>
+
+- QueryDsl
+- Clean Code
+- Spring MVC
+- Implementing Java's latest Fuction
+- 
+
 
 <div><h1>📚 Project</h1></div>
 

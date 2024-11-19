@@ -28,7 +28,8 @@
 - Clean Code
 - Spring MVC
 - Implementing Java's latest Fuction
-- 
+- Nginx
+- Docker, k8s
 
 
 <div><h1>📚 Project</h1></div>

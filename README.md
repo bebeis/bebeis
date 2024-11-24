@@ -35,12 +35,20 @@
 <div><h1>📚 Project</h1></div>
 
 - [**HittingBall**](https://github.com/DawnGlow/Hitting_Ball) - 실내에서 할 수 있는 스크린 야구 게임 (2023.11 ~ 2023.12)
+
+  - ML, CV: PyGame,MediaPipe, OpenCV
   
 - **(건)강하세요?** - 건강 프로필을 통한 건강 분석, 대전, 프로필 성장 소셜 서비스 (2024.11 ~ 진행 중)
+
+  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL, NGINX
   
 - [**Darak Community**](https://github.com/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
 
+  - BackEnd: Spring MVC, Spring Boot, JPA, MariaDB
+
 - [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 진행 중)
+
+  - FullStack: VanilaJs, FireBase
 
 <div><h1>🏫 Project in undergraduate course</h1></div>
 

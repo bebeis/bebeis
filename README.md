@@ -40,6 +40,8 @@
   
 - [**Darak Community**](https://github.com/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
 
+- [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 진행 중)
+
 <div><h1>🏫 Project in undergraduate course</h1></div>
 
 - [**도서 대여 시스템**](https://github.com/DawnGlow/BookRental_C) - C언어로 구현한 도서 대여 시스템 (2020.07 ~ 2020.08. in 학술 동아리)

@@ -48,7 +48,7 @@
 
 - [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 진행 중)
 
-  - FullStack: VanilaJs, FireBase
+  - FullStack: VanilaJs, FireBase(BaaS)
 
 <div><h1>🏫 Project in undergraduate course</h1></div>
 

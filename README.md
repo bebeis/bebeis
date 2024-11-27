@@ -39,9 +39,11 @@
 
   - ML, CV: PyGame,MediaPipe, OpenCV
   
-- **(건)강하세요?** - 건강 프로필을 통한 건강 분석, 대전, 프로필 성장 소셜 서비스 (2024.11 ~ 진행 중)
+- **(건)강하세요?** - 건강 프로필을 통한 건강 분석, 대전, 프로필 성장 소셜 서비스 (2024.11. 교내 동아리 연합 해커톤 1등)
 
-  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL, NGINX
+  - BackEnd: Spring MVC, Spring Boot, JPA, MySQL
+ 
+- YourAge(가명) - 프로젝트 기획 진행 중(2024.11 ~ 2025년 2월 예상)
   
 - [**Darak Community**](https://github.com/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
 

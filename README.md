@@ -35,11 +35,11 @@
 
 <div><h1>📚 Project</h1></div>
   
-- **(건)강하세요?** - 건강 프로필을 통한 건강 분석, 대전, 프로필 성장 소셜 서비스 (2024.11. 교내 동아리 연합 해커톤 1등)
+- [**(건)강하세요?**](https://github.com/Darakbang-EC-Hackerton/HealthMatch) - 건강 프로필을 통한 건강 분석, 대전, 프로필 성장 소셜 서비스 (2024.11. 교내 동아리 연합 해커톤 1등)
 
   - BackEnd: Spring MVC, Spring Boot, JPA, MySQL
  
-- YourAge(가명) - 프로젝트 기획 진행 중(2024.11 ~ 2025년 2월 예상)
+- 2047년에서 온 택배 - MVP 개발 후 개선 중(2024.11 ~ )
   
 - [**Darak Community**](https://github.com/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
 

@@ -26,13 +26,14 @@
 
 <div><h1> Now I'm Studying </h1></div>
 
+- Computer Science
+- Clean Code, OOP
 - QueryDsl
-- Clean Code
-- Spring MVC
 - RDB
 - Redis
-- Implementing Java's latest Fuction
+- Modern Java
 - Docker, k8s
+- React.js
 
 
 <div><h1>📚 Project</h1></div>

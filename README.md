@@ -42,10 +42,14 @@
 
   - BackEnd: Spring MVC, Spring Boot, JPA, MySQL
  
-- 2047년에서 온 택배 - MVP 개발 후 개선 중(2024.11 ~ )
+- [**2047년에서 온 택배**](https://future-package-web.vercel.app) - MVP 개발 후 백엔드 API 분리 작업(2024.11 ~ )
 
-  - nextJs: Api 엔드포인트 개발
-  - Spring MVC, Spring Boot, Jdbc: 관리 및 통계 페이지 개발
+  - **Api 엔드포인트 개발**
+    - nextJs -> Spring 전환
+    - Spring MVC, JPA, Spring AI
+      - LLM: Gemini, Mistral 
+  - 관리 및 통계 페이지 개발
+    - Spring MVC, Spring Boot, Jdbc, Thymeleaf
   - PostgreSQL 기반 DBaaS(neon)
   
 - [**Darak Community**](https://github.com/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)

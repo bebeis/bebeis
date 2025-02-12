@@ -47,23 +47,33 @@
 
   - BackEnd: Spring MVC, Spring Boot, JPA, MySQL
  
-- [**2047년에서 온 택배**](https://future-package-web.vercel.app) - MVP 개발 후 백엔드 API 분리 작업(2024.11 ~ )
+- [**2047년에서 온 택배**](https://github.com/younghun1124/future-package-web) - MVP 개발 후 백엔드 API 분리 작업(2024.11 ~ )
 
-  - **Api 엔드포인트 개발**
+  - [**Api 엔드포인트 개발**](https://github.com/DawnGlow/futurebox_service)
+  
     - nextJs -> Spring 전환
+  
     - Spring MVC, JPA, Spring AI
-      - LLM: Gemini, Mistral 
-  - 관리 및 통계 페이지 개발
+    
+      - LLM: Gemini, Mistral
+     
+  - [**관리 및 통계 페이지 개발**](https://github.com/DawnGlow/futurebox)
+    
     - Spring MVC, Spring Boot, Jdbc, Thymeleaf
-  - PostgreSQL 기반 DBaaS(neon)
+  
+    - PostgreSQL 기반 DBaaS(neon)
   
 - [**Darak Community**](https://github.com/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
 
-  - BackEnd: Spring MVC, Spring Boot, JPA, MariaDB
+  - BackEnd: Spring MVC, Spring Boot, JPA, MySQL, Thymeleaf
 
-- [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 진행 중)
+  - FrontEnd: HTML/TailwindCSS, VanillaJs
+
+- [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 12. 추후 디벨롭 예정)
 
   - FullStack: VanillaJs, FireBase(BaaS)
+ 
+  - React 전환 및 아키텍처 자동 배치 기능 개발 예정
 
 <div><h1>🏫 Project in undergraduate course</h1></div>
 
@@ -94,5 +104,5 @@
 ## 📫 Contact
 
 - ✉️ Email: ferrater1013@gmail.com
-- 🌐 Notion: currently preparing a page
+- 🌐 Notion: [**Resume**](https://alder-roquefort-416.notion.site/Back-End-Engineer-177969e497a2808785b2e00c7c3da8c6?pvs=74)
 

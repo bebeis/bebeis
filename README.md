@@ -47,6 +47,8 @@
 
   - BackEnd: Spring MVC, Spring Boot, JPA, MySQL
  
+  - Deployment: Baas(Cloudtype)
+ 
 - [**2047년에서 온 택배**](https://github.com/younghun1124/future-package-web) - MVP 개발 후 백엔드 API 분리 작업(2024.11 ~ )
 
   - [**Api 엔드포인트 개발**](https://github.com/DawnGlow/futurebox_service)

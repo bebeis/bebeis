@@ -49,15 +49,11 @@
  
   - Deployment: Baas(Cloudtype)
  
-- [**2047년에서 온 택배**](https://github.com/younghun1124/future-package-web) - MVP 개발 후 백엔드 API 분리 작업(2024.11 ~ )
+- [**2047년에서 온 택배**](https://github.com/younghun1124/future-package-web) - 비즈니스 로직 Api 개발
 
-  - [**Api 엔드포인트 개발**](https://github.com/DawnGlow/futurebox_service)
-  
-    - nextJs -> Spring 전환
-  
-    - Spring MVC, JPA, Spring AI
+  - 데이터베이스 쿼리 / 이미지 POST
     
-      - LLM: Gemini, Mistral
+  - LLM: Gemini, Mistral
      
   - [**관리 및 통계 페이지 개발**](https://github.com/DawnGlow/futurebox)
     

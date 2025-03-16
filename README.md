@@ -61,7 +61,7 @@
   
     - PostgreSQL 기반 DBaaS(neon)
   
-- [**Darak Community**](https://github.com/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
+- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
 
   - BackEnd: Spring MVC, Spring Boot, JPA, MySQL, Thymeleaf
 

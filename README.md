@@ -102,5 +102,4 @@
 ## 📫 Contact
 
 - ✉️ Email: ferrater1013@gmail.com
-- 🌐 Notion: [**Resume**](https://alder-roquefort-416.notion.site/Back-End-Engineer-177969e497a2808785b2e00c7c3da8c6?pvs=74)
 

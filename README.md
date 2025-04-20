@@ -34,9 +34,8 @@
 - Computer Science
 - Clean Code, OOP
 - QueryDsl
-- RDB
+- MySQL
 - Redis
-- Modern Java
 - Docker, k8s
 - React.js
 

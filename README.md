@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=yellow">
   <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-Hibernate-aca69f?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/QueryDsl-white?logo=https://raw.githubusercontent.com/bebeis/bebeis/refs/heads/main/querydsl-logo.png&style=for-the-badge">
+  <img src="https://img.shields.io/badge/QueryDsl-white?logo=https%3A%2F%2Fraw.githubusercontent.com%2Fbebeis%2Fbebeis%2Fmain%2Fquerydsl-logo.png&style=for-the-badge">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>

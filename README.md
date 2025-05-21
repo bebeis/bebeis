@@ -47,7 +47,7 @@
 
   - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
 
-  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL
+  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL, Redis, Docker
  
   - Deployment: AWS EC2, AWS RDS
   
@@ -65,13 +65,13 @@
     
   - LLM: Gemini, Mistral
 
-  - BFF: Next.Js
+  - BFF: Next.Js, GCP
      
     - [**관리 및 통계 페이지 개발**](https://github.com/DawnGlow/futurebox)
     
     - Spring MVC, Spring Boot, Jdbc, Thymeleaf
   
-    - PostgreSQL 기반 DBaaS(neon)
+  - PostgreSQL 기반 DBaaS
   
 - [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ 2025.05)
 

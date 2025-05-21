@@ -43,7 +43,7 @@
 
 <div><h1>📚 Project</h1></div>
 
-- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등)를 기반 음식 추천 시스템
+- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템
 
   - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
 

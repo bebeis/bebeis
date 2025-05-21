@@ -42,26 +42,40 @@
 
 
 <div><h1>📚 Project</h1></div>
+
+- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등)를 기반 음식 추천 시스템
+
+  - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
+
+  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL
+ 
+  - Deployment: AWS EC2, AWS RDS
   
 - [**(건)강하세요?**](https://github.com/Darakbang-EC-Hackerton/HealthMatch) - 건강 프로필을 통한 건강 분석, 대전, 프로필 성장 소셜 서비스 (2024.11. 교내 동아리 연합 해커톤 1등) (2024.11, 18Hour)
+
+  - MyRole: 기획, 백엔드 Api 개발, 배포 
 
   - BackEnd: Spring MVC, Spring Boot, JPA, MySQL
  
   - Deployment: Baas(Cloudtype)
  
-- [**2047년에서 온 택배**](https://github.com/younghun1124/future-package-web) - 비즈니스 로직 Api 개발
+- [**2047년에서 온 택배**](https://github.com/younghun1124/future-package-web) - UFO, 외계인 컨셉을 바탕으로 미래에서 현재의 친구에게 특별한 선물을 배달해주는 웹 서비스
 
-  - 데이터베이스 쿼리 / 이미지 POST
+  - MyRole: 기획, BFF 개발, ADMIN 개발
     
   - LLM: Gemini, Mistral
+
+  - BFF: Next.Js
      
-  - [**관리 및 통계 페이지 개발**](https://github.com/DawnGlow/futurebox)
+    - [**관리 및 통계 페이지 개발**](https://github.com/DawnGlow/futurebox)
     
     - Spring MVC, Spring Boot, Jdbc, Thymeleaf
   
     - PostgreSQL 기반 DBaaS(neon)
   
-- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 진행 중)
+- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ 2025.05)
+
+  - MyRole: Full Stack 개발
 
   - BackEnd: Spring MVC, Spring Boot, JPA, MySQL, Thymeleaf
 

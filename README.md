@@ -34,7 +34,7 @@
 
 - Computer Science
 - Clean Code, OOP
-- QueryDsl
+- Spring AI
 - MySQL
 - Redis
 - Docker, k8s

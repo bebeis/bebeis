@@ -43,6 +43,14 @@
 
 <div><h1>📚 Project</h1></div>
 
+- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ 2025.05)
+
+  - MyRole: Full Stack 개발
+
+  - BackEnd: Spring MVC, Spring Boot, JPA, MySQL, Thymeleaf
+
+  - FrontEnd: HTML/TailwindCSS, VanillaJs
+
 - [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템
 
   - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
@@ -72,14 +80,6 @@
     - Spring MVC, Spring Boot, Jdbc, Thymeleaf
   
   - PostgreSQL 기반 DBaaS
-  
-- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ 2025.05)
-
-  - MyRole: Full Stack 개발
-
-  - BackEnd: Spring MVC, Spring Boot, JPA, MySQL, Thymeleaf
-
-  - FrontEnd: HTML/TailwindCSS, VanillaJs
 
 - [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 12. 추후 디벨롭 예정)
 

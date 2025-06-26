@@ -12,7 +12,8 @@
 <div><h1>🔨 MAIN STACKS </h1></div>
 
 <div> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=yellow">
@@ -32,6 +33,8 @@
 
 <div><h1> Now I'm Studying </h1></div>
 
+- Modern Java(Java 17~)
+- Kotlin
 - Computer Science
 - Clean Code, OOP
 - Spring AI

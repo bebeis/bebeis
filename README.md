@@ -46,7 +46,7 @@
 
 <div><h1>📚 Project</h1></div>
 
-- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ 2025.05)
+- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ )
 
   - MyRole: Full Stack 개발
 
@@ -84,13 +84,13 @@
   
   - PostgreSQL 기반 DBaaS
 
+<div><h1>🏫 Project in undergraduate course</h1></div>
+
 - [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 12. 추후 디벨롭 예정)
 
   - FullStack: VanillaJs, FireBase(BaaS)
  
   - React 전환 및 아키텍처 자동 배치 기능 개발 예정
-
-<div><h1>🏫 Project in undergraduate course</h1></div>
 
 - [**HittingBall**](https://github.com/DawnGlow/Hitting_Ball) - 실내에서 할 수 있는 스크린 야구 게임 (2023.11 ~ 2023.12)
 

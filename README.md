@@ -54,7 +54,7 @@
 
   - FrontEnd: HTML/TailwindCSS, VanillaJs
 
-- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템
+- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템 (2025.03 ~ )
 
   - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
 
@@ -86,7 +86,7 @@
 
 <div><h1>🏫 Project in undergraduate course</h1></div>
 
-- [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 12. 추후 디벨롭 예정)
+- [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 12)
 
   - FullStack: VanillaJs, FireBase(BaaS)
  

@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-Hibernate-aca69f?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDsl-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAMAAABgOjJdAAAAPFBMVEUAAABAh9FCjdpOi8lxmcVnlsdekMVListYj8hTjMlHicyDociOlqq6sr7///+ftsi92cvY2LCItev//4DhOScNAAAAFHRSTlMA/v+xIDdP0m6R5w8OCAIPCQcNAiUGpvoAAAFPSURBVHicrVPJdsMwCGQRQsJr3P//14Jcx3Li5FQO9hMaDQwLwL/aQ2Ty3yTyAZAYkRMMTFjvEUxuDMW/eMuyGSGSrZWQKIOkN8SqgdBZHKBLQcx9BpVrguJXWAByHDQCPm30I2nyK36+qw18mOfmz6/5T1kgl+HEewYML5aQDpo7jkAYHUEX3vN4g5xVGQqXd0Cw5ztvT0L6iL+U8qFVw86Rjci+silGmdfbO9FgxzC7TRSEAxElJx1O91LqNag4xPpUqxfwCkmldAywWBsk+Mne8VsFU4Q1EUbvBfLYnFvlMndhTUNgKHC2UDlHX7ppGFJ0rWnEfUxS8Ol8iaV4mEJrM72Mx6h0ICzO2TCK17FMJ0J3wTL4QmmnrT4RtfORbTCGOt9N2bX4AqULYk3qs1YiZNsNvFQ3xS7kWLfa3MJmxtfJmRvMd1u2v+xahF+F6QguzzkWtAAAAABJRU5ErkJggg==&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

@@ -20,15 +20,15 @@
   <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-Hibernate-aca69f?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDsl-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAMAAABgOjJdAAAAPFBMVEUAAABAh9FCjdpOi8lxmcVnlsdekMVListYj8hTjMlHicyDociOlqq6sr7///+ftsi92cvY2LCItev//4DhOScNAAAAFHRSTlMA/v+xIDdP0m6R5w8OCAIPCQcNAiUGpvoAAAFPSURBVHicrVPJdsMwCGQRQsJr3P//14Jcx3Li5FQO9hMaDQwLwL/aQ2Ty3yTyAZAYkRMMTFjvEUxuDMW/eMuyGSGSrZWQKIOkN8SqgdBZHKBLQcx9BpVrguJXWAByHDQCPm30I2nyK36+qw18mOfmz6/5T1kgl+HEewYML5aQDpo7jkAYHUEX3vN4g5xVGQqXd0Cw5ztvT0L6iL+U8qFVw86Rjci+silGmdfbO9FgxzC7TRSEAxElJx1O91LqNag4xPpUqxfwCkmldAywWBsk+Mne8VsFU4Q1EUbvBfLYnFvlMndhTUNgKHC2UDlHX7ppGFJ0rWnEfUxS8Ol8iaV4mEJrM72Mx6h0ICzO2TCK17FMJ0J3wTL4QmmnrT4RtfORbTCGOt9N2bX4AqULYk3qs1YiZNsNvFQ3xS7kWLfa3MJmxtfJmRvMd1u2v+xahF+F6QguzzkWtAAAAABJRU5ErkJggg==&style=for-the-badge">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
 <div><h1> Now I'm Studying </h1></div>

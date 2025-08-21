@@ -41,7 +41,7 @@
 - Spring AI
 - MySQL
 - Redis
-- Docker, k8s
+- Docker
 - React.js
 
 
@@ -51,7 +51,9 @@
 
   - MyRole: Full Stack 개발
 
-  - BackEnd: Spring MVC, Spring Boot, JPA, MySQL, Thymeleaf
+  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, QueryDSL, MySQL
+
+    - SSR: Thymeleaf
 
   - FrontEnd: HTML/TailwindCSS, VanillaJs
 

@@ -7,6 +7,7 @@
 * 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~)
 * ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ )
 * ✏️ **Tech blog** : https://lumana.tistory.com
+* 우아한 테크코스 8기 백엔드 프리코스 참여 중
 
 
 <div><h1>🔨 MAIN STACKS </h1></div>

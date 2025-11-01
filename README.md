@@ -63,11 +63,11 @@
 
   - FrontEnd: HTML/TailwindCSS, VanillaJs
 
-- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템 (2025.03 ~ )
+- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend-V2) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템 (2025.03 ~ 2025.11)
 
   - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
 
-  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL, Redis, Docker
+  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL, Redis, Docker, Terraform
  
   - Deployment: AWS EC2, AWS RDS
   

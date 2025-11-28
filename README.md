@@ -8,7 +8,6 @@
 * ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ )
 * ✏️ **TIL blog(Legacy)** : https://lumana.tistory.com
 * ✏️ **Tech blog** : https://velog.io/@bebeis/posts
-* 우아한 테크코스 8기 백엔드 프리코스 참여 중
 
 
 <div><h1>🔨 MAIN STACKS </h1></div>
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -53,7 +51,7 @@
 
 <div><h1>📚 Project</h1></div>
 
-- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ )
+- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ 2025.07)
 
   - MyRole: Full Stack 개발
 
@@ -67,7 +65,7 @@
 
   - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
 
-  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, MySQL, Redis, Docker, Terraform
+  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, Spring Batch, MySQL, Redis, Docker, QueryDSL, Terraform, Grafana
  
   - Deployment: AWS EC2, AWS RDS
   

@@ -31,17 +31,10 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
-<div><h1> Now I'm Studying </h1></div>
+<div><h1> Chrome Extension Development </h1></div>
 
-- Java NIO
-- WebSocket & STOMP
-- Kotlin
-- Computer Science
-- Software Architecture
-- MySQL & DB Modeling
-- Redis
-- React.js
-
+[Reference Helper](https://chromewebstore.google.com/detail/naalijeklamhcjhilohfpennjmjbefbp?utm_source=item-share-cb)
+- Smart Citation Manager for Bloggers
 
 <div><h1> 💻 Open-source projects that I'm interested in </h1></div>
 

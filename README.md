@@ -112,7 +112,7 @@
 
 ![Top Langs](https://github-readme-stats-black-alpha-42.vercel.app/api/top-langs/?username=bebeis&layout=compact&theme=onedark)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ferrater1013)](https://solved.ac/ferrater1013)
 
-![Junseo's GitHub stats](github-readme-stats-black-alpha-42.vercel.app/api?username=bebeis&theme=flag-india&show_icons=true)
+![Junseo's GitHub stats](https://github-readme-stats-black-alpha-42.vercel.app/api?username=bebeis&theme=flag-india&show_icons=true)
 
 ## 📫 Contact
 

@@ -42,7 +42,7 @@
 
 <div><h1>📚 Project</h1></div>
 
-- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.09 ~ 2024.12, 2025.03 ~ 2025.07)
+- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.10 ~ 2025.02, 2026.01 ~ 2026.03)
 
   - MyRole: Full Stack 개발
 

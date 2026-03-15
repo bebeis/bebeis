@@ -6,7 +6,6 @@
 ## 🏃Activity
 * 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~)
 * ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ )
-* ✏️ **TIL blog(Legacy)** : https://lumana.tistory.com
 * ✏️ **Tech blog** : https://velog.io/@bebeis/posts
 
 
@@ -42,17 +41,13 @@
 
 <div><h1>📚 Project</h1></div>
 
-- [**Darak Community**](https://github.com/bebeis/DarakCommunity) - 교내 학술 동아리 "다락방" 커뮤니티 (2024.10 ~ 2025.02, 2026.01 ~ 2026.03)
+- [**Cluverse**](https://github.com/bebeis/cluverse-api) - 대학생 관심사별 커뮤니티 (2024.10 ~ 2025.02(legacy), 2026.01 ~ 2026.03)
 
-  - MyRole: Full Stack 개발
+  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, QueryDSL, MySQL, Docker, Terraform, AWS, Nginx
+ 
+  - [**다락방 커뮤니티**](https://github.com/bebeis/DarakCommunity) 에서 프로젝트 확장한 서비스
 
-  - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, QueryDSL, MySQL
-
-    - SSR: Thymeleaf
-
-  - FrontEnd: HTML/TailwindCSS, VanillaJs
-
-- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend-V2) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템 (2025.03 ~ 2025.11)
+- [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend-V2) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템 (2025.09 ~ 2025.12)
 
   - MyRole: 기획, 와이어프레임, 백엔드 Api 개발, 배포
 
@@ -86,26 +81,12 @@
 
 - [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 12)
 
-  - FullStack: VanillaJs, FireBase(BaaS)
- 
-  - React 전환 및 아키텍처 자동 배치 기능 개발 예정
-
 - [**HittingBall**](https://github.com/DawnGlow/Hitting_Ball) - 실내에서 할 수 있는 스크린 야구 게임 (2023.11 ~ 2023.12)
 
   - ML, CV: PyGame,MediaPipe, OpenCV
 
-- [**도서 대여 시스템**](https://github.com/DawnGlow/BookRental_C) - C언어로 구현한 도서 대여 시스템 (2020.07 ~ 2020.08. in 학술 동아리)
-
 - [**Auto Dispenser**](https://lumana.tistory.com/183) - 손소독재 자동 분사 로봇 (2020.11 ~ 2020.12 in 공학기초설계 Course)
   
-- [**Calculator**](https://github.com/DawnGlow/Calculator) - JavaFx로 구현한 계산기 (2021.06 in OOP Course)
-  
-- [**숫자 야구**](https://github.com/DawnGlow/NumberBaseball_LogicCircuit) - Logisim 논리 회로로 구현한 숫자 야구 게임 (2021.05 ~ 2021.06 in Digital Logic Circut Course)
-
-- [**편의점 POS System**](https://github.com/DawnGlow/Convenience_Store_Pos_System) - System Call을 이용해 리눅스에서 동작하도록 구현한 편의점 POS System (2023.11 ~ 2023.12 in Unix Programming Course)
-
-- [**투표 시스템**](https://github.com/DawnGlow/Voting_system) - 투표 관련 기능을 sql을 이용하여 Python으로 구현한 시스템 (2023.12 in DataBase Course)
-
 - [**테트리스**](https://github.com/SE-7team/Tetris_swing) - Java Swing 라이브러리 기반으로, 대전 모드, 아이템 모드를 포함한 테트리스 게임 (2024.03 ~ 2024.06 in Software Engineering Course)
 
 <div><h1>✏️ Stat</h1></div>

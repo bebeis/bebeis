@@ -9,7 +9,7 @@
 * ✏️ **Tech blog** : https://velog.io/@bebeis/posts
 
 
-<div><h1>🔨 MAIN STACKS </h1></div>
+<div><h2>🔨 MAIN STACKS </h2></div>
 
 <div> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -30,16 +30,11 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
-<div><h1> Chrome Extension Development </h1></div>
+<div><h2>OpenSource Contributions</h2></div>
 
-[Reference Helper](https://chromewebstore.google.com/detail/naalijeklamhcjhilohfpennjmjbefbp?utm_source=item-share-cb)
-- Smart Citation Manager for Bloggers
+- [**Spring Framework**](https://github.com/spring-projects/spring-framework) - Fix incorrect cross-reference links in AbstractEnvironment [#36516](https://github.com/spring-projects/spring-framework/pull/36516)
 
-<div><h1> 💻 Open-source projects that I'm interested in </h1></div>
-
-- [**Embabel**](https://github.com/embabel/embabel-agent)
-
-<div><h1>📚 Project</h1></div>
+<div><h2>📚 Project</h2></div>
 
 - [**Cluverse**](https://github.com/bebeis/cluverse-api) - 대학생 관심사별 커뮤니티 (2024.10 ~ 2025.02(legacy), 2026.01 ~ 2026.03)
 
@@ -77,7 +72,16 @@
   
   - PostgreSQL 기반 DBaaS
 
-<div><h1>🏫 Project in undergraduate course</h1></div>
+<div><h3> Chrome Extension Development </h3></div>
+
+[Reference Helper](https://chromewebstore.google.com/detail/naalijeklamhcjhilohfpennjmjbefbp?utm_source=item-share-cb)
+- Smart Citation Manager for Bloggers
+
+<div><h3> 💻 Open-source projects that I'm interested in </h3></div>
+
+- [**Embabel**](https://github.com/embabel/embabel-agent)
+
+<div><h3>🏫 Project in undergraduate course</h3></div>
 
 - [**Stackture**](https://github.com/DawnGlow/Stackture) - 아키텍처 다이어그램을 그리는데 특화된 웹 사이트 (2024.11 ~ 12)
 

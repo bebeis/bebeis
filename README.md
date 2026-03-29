@@ -4,10 +4,9 @@
 **BackEnd Developer**
 
 ## 🏃Activity
-* 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~)
-* ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ )
-* ✏️ **Tech blog** : https://velog.io/@bebeis/posts
-
+* 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~ 2026.08 Expected to graduate)
+* ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ 2025.12)
+* ✏️ **Tech blog** : https://velog.io/@bebeis/posts (legacy: https://lumana.tistory.com/)
 
 <div><h2>🔨 MAIN STACKS </h2></div>
 
@@ -32,11 +31,15 @@
 
 <div><h2>OpenSource Contributions</h2></div>
 
-- [**Spring Framework**](https://github.com/spring-projects/spring-framework) - Fix incorrect cross-reference links in AbstractEnvironment [#36516](https://github.com/spring-projects/spring-framework/pull/36516)
+- [**Spring Framework**](https://github.com/spring-projects/spring-framework)
+  - several PRs and issue are in progress
+  - Merged
+    - Fix in correct cross-reference links in AbstractEnvironment [#36516]
+    - Fix incorrect method name in TypeDescriptor.array() [#36549]
 
 <div><h2>📚 Project</h2></div>
 
-- [**Cluverse**](https://github.com/bebeis/cluverse-api) - 대학생 관심사별 커뮤니티 (2024.10 ~ 2025.02(legacy), 2026.01 ~ 2026.03)
+- [**Cluverse**](https://github.com/bebeis/cluverse-api) - 대학생 관심사별 커뮤니티 (2024.10 ~ 2025.02(legacy), 2026.01 ~ )
 
   - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, QueryDSL, MySQL, Docker, Terraform, AWS, Nginx
  

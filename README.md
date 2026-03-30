@@ -39,11 +39,11 @@
 
 <div><h2>📚 Project</h2></div>
 
-- [**Cluverse**](https://github.com/bebeis/cluverse-api) - 대학생 관심사별 커뮤니티 (2024.10 ~ 2025.02(legacy), 2026.01 ~ )
+- [**Cluverse**](https://github.com/bebeis/cluverse-api) - 대학생 관심사별 커뮤니티 (2026.01 ~ )
 
   - BackEnd: Spring MVC, Spring Boot, Spring Data JPA, QueryDSL, MySQL, Docker, Terraform, AWS, Nginx
  
-  - [**다락방 커뮤니티**](https://github.com/bebeis/DarakCommunity) 에서 프로젝트 확장한 서비스
+  - [**다락방 커뮤니티**](https://github.com/bebeis/DarakCommunity) 프로젝트에서 확장한 서비스 (2024.10 ~ 2025.02)
 
 - [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend-V2) - 사용자 정보(음식 선호도, 목표 예산, 지출 내역, 주소 등) 기반 음식 추천 시스템 (2025.09 ~ 2025.12)
 

@@ -5,7 +5,8 @@
 
 ## 🏃Activity
 * 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~ 2026.08 Expected to graduate)
-* ♣️ **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ 2025.12)
+* 🤝 AI·SW Maestro 17th (2026.04 ~ )
+* 🏠 **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ 2025.12)
 * ✏️ **Tech blog** : https://velog.io/@bebeis/posts (legacy: https://lumana.tistory.com/)
 
 <div><h2>🔨 MAIN STACKS </h2></div>

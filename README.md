@@ -33,8 +33,11 @@
 <div><h2>OpenSource Contributions</h2></div>
 
 - [**Spring Framework**](https://github.com/spring-projects/spring-framework)
+
   - [Spring Core] Resolve invalid method return type metadata for ClassFile variant on JDK 24+ [#36577](https://github.com/spring-projects/spring-framework/pull/36577)
+  
   - [Spring Core] Fix in correct cross-reference links in AbstractEnvironment [#36516]
+  
   - [Spring Core] Fix incorrect method name in TypeDescriptor.array() [#36549]
 
 <div><h2>📚 Project</h2></div>

@@ -36,13 +36,13 @@
 
   - [Spring Context Support | Enhancement] Use defensive `Date` copies for `SimpleMailMessage` `sentDate` [#36626](https://github.com/spring-projects/spring-framework/pull/36626)
 
-  - [Spring Core | Resolve] Resolve invalid method return type metadata for `ClassFile` variant on JDK 24+ [#36577](https://github.com/spring-projects/spring-framework/pull/36577)
+  - [Spring Core | Resolve] Invalid method return type metadata for `ClassFile` variant on JDK 24+ [#36577](https://github.com/spring-projects/spring-framework/pull/36577)
 
   - [Spring Core | Request-Direction] `ProfilesParser` silently accepts unbalanced parentheses in profile expressions [#36540](https://github.com/spring-projects/spring-framework/issues/36540)
   
-  - [Spring Core | Fix] Fix in correct cross-reference links in `AbstractEnvironment` [#36516](https://github.com/spring-projects/spring-framework/pull/36516)
+  - [Spring Core | Fix] incorrect cross-reference links in `AbstractEnvironment` [#36516](https://github.com/spring-projects/spring-framework/pull/36516)
   
-  - [Spring Core | Fix] Fix incorrect method name in `TypeDescriptor.array()` [#36549](https://github.com/spring-projects/spring-framework/pull/36549)
+  - [Spring Core | Fix] incorrect method name in `TypeDescriptor.array()` [#36549](https://github.com/spring-projects/spring-framework/pull/36549)
 
 <div><h2>📚 Project</h2></div>
 

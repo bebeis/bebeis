@@ -6,8 +6,8 @@
 ## 🏃Activity
 * 💻 Majoring **Computer Science and Engineering** in SeoulTech. 🏫 (2020.02 ~ 2026.08 Expected to graduate)
 * 🏠 **Darakbang**(CSE Academic club in Seoultech) 30th member (2020.03 ~ 2025.12)
-* 🧑‍💼 Ahnlab AI Education (with Github Copilot) Instructor (2025.09)
-* 🤝 AI·SW Maestro 17th (2026.04 ~ )
+* 🧑‍💼 Ahnlab **AI Education** (with Github Copilot) Instructor (2025.09)
+* 🤝 **AI·SW Maestro 17th** (2026.04 ~ )
 * ✏️ **Tech blog** : https://velog.io/@bebeis/posts (legacy: https://lumana.tistory.com/)
 
 <div><h2>🔨 MAIN STACKS </h2></div>
@@ -24,11 +24,13 @@
   <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=purple&&labelColor=F2F4F9">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 </div>
 
 <div><h2>OpenSource Contributions</h2></div>

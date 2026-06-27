@@ -47,6 +47,10 @@
   
   - **[Spring Core | Fix]** incorrect method name in `TypeDescriptor.array()` [#36549](https://github.com/spring-projects/spring-framework/pull/36549)
 
+- [**Jean**](https://github.com/coollabsio/jean)
+
+  -  **[Feature]** expose Linear issue context for external worktree creation [#413](https://github.com/coollabsio/jean/pull/413)
+
 <div><h2>📚 Project</h2></div>
 
 - [**Cluverse**](https://github.com/bebeis/cluverse-api) - 대학생 관심사별 커뮤니티 (2026.01 ~ )

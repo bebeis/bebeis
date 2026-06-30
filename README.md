@@ -2,20 +2,21 @@
 
 **Backend Developer** · AI·SW Maestro 17th
 
-> # **R**ight, **O**r **N**ot at **A**ll.
-> ##### *Done, not just tried.* — **RONA**
+> # **C**lear, **O**r **N**ot at **A**ll.
+> ##### *Done, not just tried.* — **CONA**
 
-`CODE` — Context Over Dogma. Execute.
+- Read the **context**, speak my **own thoughts** — not the keywords.
 
-`TACT` — Think. Act. Clear. Stand.
+- Between the ideal and the real, find what is **clear**.
 
-`PACT` — Practice. Apply. Commit. Trust.
+- Mark what I **know** from what I **feel**.
 
-`TOOL` — Test. Own. Outgrow. Lead.
+- Don't just plan it. **Do it, and do it right.**
 
-`LAST` — Lead. Augment. Share. Teach.
+- Use tools to **grow**, not to hide behind.
 
-> Ideals blur, reality pushes back.
+- Turn **knowledge** into **wisdom**, and pass it on.
+
 > The work is making it clear, then making it real.
 
 <br>

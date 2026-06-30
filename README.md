@@ -3,7 +3,7 @@
 **Backend Developer** · AI·SW Maestro 17th
 
 > # **C**lear, **O**r **N**ot at **A**ll.
-> ##### *Done, not just tried.* — **[CONA](https://github.com/team-cona)**
+> ##### *No trying. Just doing.* — **[CONA](https://github.com/team-cona)**
 
 <details>
 <summary><i>In full</i></summary>

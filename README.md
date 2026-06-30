@@ -5,19 +5,21 @@
 > # **C**lear, **O**r **N**ot at **A**ll.
 > ##### *Done, not just tried.* — **CONA**
 
+<details>
+<summary><i>In full</i></summary>
+
+<br>
+
 - Read the **context**, speak my **own thoughts** — not the keywords.
-
 - Between the ideal and the real, find what is **clear**.
-
 - Mark what I **know** from what I **feel**.
-
 - Don't just plan it. **Do it, and do it right.**
-
 - Use tools to **grow**, not to hide behind.
-
 - Turn **knowledge** into **wisdom**, and pass it on.
 
 > The work is making it clear, then making it real.
+
+</details>
 
 <br>
 

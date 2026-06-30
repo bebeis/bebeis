@@ -3,7 +3,7 @@
 **Backend Developer** · AI·SW Maestro 17th
 
 > # **C**lear, **O**r **N**ot at **A**ll.
-> ##### *Done, not just tried.* — **CONA**
+> ##### *Done, not just tried.* — **[CONA](https://github.com/TEAM-CONA)**
 
 <details>
 <summary><i>In full</i></summary>
@@ -20,8 +20,6 @@
 > The work is making it clear, then making it real.
 
 </details>
-
-<br>
 
 ## 🌱 Open Source Contributions
 

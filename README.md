@@ -50,8 +50,8 @@
 
 - 기획부터 재설계, 백엔드 아키텍처·인프라 직접 구축
 
-### [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend-V2)
-**예산·취향 기반 음식 추천 시스템** · 2025.09 ~ 2025.12
+### [알뜰식탁](https://github.com/Picance/SmartMealTable-springboot-backend-V2) 🏆
+**예산·취향 기반 음식 추천 시스템** · 2025.09 ~ 2025.12 · 서울과학기술대학교 컴퓨터공학과 캡스톤디자인 **1등**
 
 - 음식 선호도·목표 예산·지출 내역·주소를 엮어 끼니를 추천
 

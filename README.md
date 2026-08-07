@@ -46,7 +46,7 @@
 ### [Cluverse](https://github.com/bebeis/cluverse-api)
 **대학생 관심사별 커뮤니티** · 2026.01 ~
 
-- [다락방 커뮤니티](https://github.com/bebeis/DarakCommunity)에서 출발한 서비스를 관심사 기반 커뮤니티로 확장
+- [학술동아리 "다락방" 커뮤니티](https://github.com/bebeis/DarakCommunity)에서 출발한 서비스를 관심사 기반 커뮤니티로 확장
 
 - 기획부터 재설계, 백엔드 아키텍처·인프라 직접 구축
 
@@ -60,7 +60,7 @@
 - "빠르고 정확한 추천"을 목표로 추천 로직·배치·캐싱 설계
 
 ### [2047년에서 온 택배](https://future-package-web.vercel.app/)
-**미래에서 온 선물 배달 웹 서비스**
+**미래에서 온 선물 배달 웹 서비스** · 2024.12 ~ 2025.02
 
 - UFO·외계인 컨셉으로 미래에서 현재의 친구에게 선물을 배달
 

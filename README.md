@@ -59,12 +59,12 @@
 
 - "빠르고 정확한 추천"을 목표로 추천 로직·배치·캐싱 설계
 
-### [2047년에서 온 택배](https://github.com/younghun1124/future-package-web)
+### [2047년에서 온 택배](https://future-package-web.vercel.app/)
 **미래에서 온 선물 배달 웹 서비스**
 
 - UFO·외계인 컨셉으로 미래에서 현재의 친구에게 선물을 배달
 
-- 기획 참여, BFF 및 [어드민·통계 페이지](https://github.com/DawnGlow/futurebox) 담당
+- 기획 참여, [BFF](https://github.com/younghun1124/future-package-web) 및 [어드민·통계 페이지](https://github.com/DawnGlow/futurebox) 담당
 
 - DB 설계 및 인프라 / 모니터링 담당
 

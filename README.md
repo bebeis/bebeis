@@ -43,6 +43,11 @@
 
 ## 📚 Projects
 
+### [모이면](https://github.com/100Thieves-team/moimyeon-backend) (AI·SW 마에스트로 프로젝트)
+**모의 면접 매칭 및 준비 도움 서비스** · 2026.06 ~
+
+- 백엔드 개발, 아키텍처 설계, 코드베이스 구축, AI 개발환경 구축
+
 ### [Cluverse](https://github.com/bebeis/cluverse-api)
 **대학생 관심사별 커뮤니티** · 2026.01 ~
 

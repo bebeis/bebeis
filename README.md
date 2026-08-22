@@ -103,7 +103,7 @@
 ## 🏃 Activity
 
 - 🤝 **AI·SW Maestro 17th** · 2026.04 ~
-- 💻 **Computer Science & Engineering**, SeoulTech · 2020.02 ~ 2026.08 (expected)
+- 💻 **Computer Science & Engineering**, SeoulTech · 2020.02 ~ 2026.02 (Graduate 2027.02 expected)
 - 🏠 **Darakbang** (SeoulTech CSE academic club) 30th member · 2020.03 ~ 2025.12
 - 🧑‍💼 **Ahnlab AI Education** (with GitHub Copilot) Instructor · 2025.09
 - ✏️ **Tech Blog** — [velog](https://velog.io/@bebeis/posts) (legacy: [tistory](https://lumana.tistory.com/))

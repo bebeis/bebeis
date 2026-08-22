@@ -2,8 +2,7 @@
 
 **Backend Developer** · AI·SW Maestro 17th
 
-> # **C**ommit, **O**r **N**ot at **A**ll.
-> ##### *No trying. Just doing.* — **[CONA](https://github.com/team-cona)**
+> ## *No trying. Just doing.*
 
 <details>
 <summary><i>In full</i></summary>

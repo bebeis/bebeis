@@ -1,6 +1,6 @@
 # 😎 About me
 
-**Backend Developer** · AI·SW Maestro 17th
+**Server Developer**
 
 > ## *No trying. Just doing.*
 
@@ -42,8 +42,8 @@
 
 ## 📚 Projects
 
-### [모이면](https://github.com/100Thieves-team/moimyeon-backend) (AI·SW 마에스트로 프로젝트)
-**모의 면접 매칭 및 준비 도움 서비스** · 2026.06 ~
+### [모이면](https://github.com/100Thieves-team/moimyeon-backend) (AI·SW 마에스트로 17기 프로젝트)
+**모의 면접 매칭 및 준비 도움 서비스** · 2026.06 ~ 2026.10
 
 - 백엔드 개발, 아키텍처 설계, 코드베이스 구축, AI 개발환경 구축
 
